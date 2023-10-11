@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_test_misc_tests",
+  "info": {
+    "displayName": "miscTest",
+    "icon": "alien"
+  },
+  "options": {},
+  "attributes": {
+    "testField": {
+      "type": "string"
+    }
+  }
+}

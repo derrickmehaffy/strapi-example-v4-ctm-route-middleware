@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_test_test_uids",
+  "info": {
+    "displayName": "testUID",
+    "icon": "alien"
+  },
+  "options": {},
+  "attributes": {
+    "fakeUID": {
+      "type": "string"
+    }
+  }
+}

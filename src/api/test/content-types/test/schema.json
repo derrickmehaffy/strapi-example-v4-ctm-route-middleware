@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tests",
+  "info": {
+    "singularName": "test",
+    "pluralName": "tests",
+    "displayName": "test",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "attributes": {
+    "string": {
+      "type": "string"
+    },
+    "dz": {
+      "type": "dynamiczone",
+      "components": [
+        "test.test-uid",
+        "test.misc-test"
+      ]
+    }
+  }
+}
